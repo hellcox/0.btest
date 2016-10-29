@@ -2178,3 +2178,789 @@ INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
 INFO: [ app_init ] --END-- [ RunTime:0.002103s ]
 ERR: 无法加载模块:Public
 
+[ 2016-10-29T16:58:24+08:00 ] ::1 /0.btest/Public/admin/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002464s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T16:58:46+08:00 ] ::1 /0.btest/Public/admin/style.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001349s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:00:00+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_both.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.011821s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:00:00+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_asc.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001356s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:00:44+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_both.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001301s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:00:45+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_asc.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001260s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:01:36+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_both.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001663s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:01:36+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_asc.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001188s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:02:28+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_both.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001207s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:02:28+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_asc.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000068s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001265s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:02:36+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_both.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001366s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:02:36+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_asc.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001258s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:02:49+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_both.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001157s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:02:49+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_asc.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001254s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:03:29+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_both.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001278s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:03:30+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_asc.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001292s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:03:51+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001546s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:04:39+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001390s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:04:39+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001217s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:04:40+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_both.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001458s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:04:40+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_asc.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001227s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:05:28+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000074s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001673s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:05:29+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001240s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:05:30+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_both.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002122s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:05:30+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_asc.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001212s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:05:39+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001252s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:05:39+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001199s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:05:40+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_both.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001284s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:05:40+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_asc.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001215s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:06:10+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001088s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:06:11+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001188s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:06:11+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_both.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001293s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:06:11+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_asc.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001785s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:06:16+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002309s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:06:17+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001228s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:06:18+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_both.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001175s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:06:18+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_asc.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001294s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:06:29+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001253s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:06:29+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000854s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001962s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:06:30+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_both.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001578s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:06:30+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_asc.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001196s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:06:43+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001274s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:06:43+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001282s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:06:44+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_both.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001242s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:06:44+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_asc.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001270s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:07:12+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001403s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:07:13+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001200s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:07:13+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_both.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001570s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:07:13+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_asc.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001264s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:07:32+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001559s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:07:32+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001206s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:07:33+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_both.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001230s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:07:33+08:00 ] ::1 /0.btest/Public/admin/assets/plugins/datatables/images/sort_asc.png
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001254s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:08:43+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.014641s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:08:43+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:09:20+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001554s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:09:21+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001201s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:09:30+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001573s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:09:30+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009222s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:10:02+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002516s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:10:02+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001160s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:10:27+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001439s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:10:27+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002081s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:10:50+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001440s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:10:51+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002252s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:11:04+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001617s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:11:05+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001329s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:11:23+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001538s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:11:24+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.036559s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:11:48+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001890s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:11:49+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001236s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:13:45+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001590s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:13:45+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001190s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:14:07+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001979s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:14:08+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001172s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:14:14+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000057s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002041s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:14:14+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001265s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:14:21+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001499s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:14:21+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001297s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:14:33+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001531s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:14:34+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001206s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:15:09+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001283s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:15:09+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001164s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:15:36+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001116s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:15:36+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001141s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:15:45+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001835s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:15:46+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001222s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:15:54+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001530s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:15:55+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:16:03+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001138s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:16:04+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001190s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:16:14+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000106s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002813s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:16:15+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001194s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:18:49+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001789s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:18:50+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002736s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:19:01+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000105s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003037s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:19:02+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001160s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:19:09+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001204s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:19:10+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001198s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:19:25+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001356s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:19:25+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001211s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:20:10+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002696s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:20:11+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001153s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:20:21+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001294s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:20:21+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001887s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:20:32+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001189s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:20:32+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001237s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:20:37+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001239s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:20:38+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001291s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:20:46+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001146s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:20:46+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001115s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:20:51+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001538s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:20:52+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001249s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:21:05+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000102s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002713s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:21:05+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001165s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:21:10+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001588s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:21:11+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001177s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:21:15+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001403s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:21:16+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000048s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001233s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:21:23+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001713s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:21:24+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000046s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001352s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:21:32+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000047s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001471s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:21:32+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001161s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:22:20+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000055s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001622s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:22:21+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000042s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001086s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:22:32+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000044s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002398s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:22:32+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001187s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:22:36+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001484s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:22:37+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001229s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:24:28+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001288s ]
+ERR: 无法加载模块:Public
+
+[ 2016-10-29T17:24:29+08:00 ] ::1 /0.btest/Public/admin/assets/js/jquery-1.11.1.min.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000045s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001140s ]
+ERR: 无法加载模块:Public
+
