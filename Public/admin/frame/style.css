@@ -1,0 +1,11 @@
+.topfix a {
+    /*background-color: #fff;*/
+    display: block;
+    width: 20px;
+    height: 44px;
+    line-height: 44px;
+    padding: 0 10px 0 10px;
+    text-align: center;
+    color: #bbb;
+    text-decoration: none;
+}
